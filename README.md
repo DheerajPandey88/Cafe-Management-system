@@ -26,8 +26,8 @@ The **Café Management System** is a web-based application developed using **C#*
 > 💡 *Built for efficient café operations and smooth digital management using C#, MVC, and SQL Server 2022.*
 
  ##  📸 Screenshot Gallery
- ![logincafe](assets/images/your-image.jpg)
+ ![logincafe]https://github.com/DheerajPandey88/Cafe-Management-system/blob/0339e8b1089a4910a800afe7be819b332e782373/Screenshot%202025-10-17%20031213.png)
  
-![register](assets/images/your-image.jpg)
+![register](https://github.com/DheerajPandey88/Cafe-Management-system/blob/0339e8b1089a4910a800afe7be819b332e782373/Screenshot%202025-10-17%20031241.png)
  
  
